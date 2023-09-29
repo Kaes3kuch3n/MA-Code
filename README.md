@@ -1,5 +1,7 @@
 # Masterarbeit
 Im Folgenden wird der Inhalt dieses Repositorys sowie die Verwendung der einzelnen Teile beschrieben.
+Zum Installieren der benötigten Python Packages kann die Datei `requirements.txt` verwendet werden:
+`pip install -r requirements.txt`
 
 ## Notebooks
 Der Ordner `notebooks` enthält Jupyter Notebooks, die jeweils verschiedene Teile des in der MA implementierten ersten Ansatzes beinhalten.
