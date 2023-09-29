@@ -1,6 +1,5 @@
 import tensorflow as tf
 import note_seq
-import numpy as np
 
 files = ["data/datasets/usdx_vocals.tfrecord"]
 
